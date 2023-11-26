@@ -23,32 +23,40 @@ authors: ['reinoutreybrouck']
 
 ***
 
-#  1. <a name='Summary'></a>Introduction 
+#  1. <a name='Summary'></a>Introduction and motivation 
 
 Hi! Finally getting there,<br/>
 
-I've been thinking for some time now about how to showcase my various projects, writings and resumé. My online portfolio if you will. I see this as an opportunity to learn new skills, which I expect to be beneficial for my professional career.
-At the same time this blog will enable me to quickly share some of my work and provide an interesting platform for further development. So it was decided, let's make it happen!
+I've been contemplating how to go about showcasing various projects, writings and my resumé. My online portfolio if you will. I see this as an opportunity to learn new skills, which I expect to be beneficial for my professional career.
+At the same time this blog will enable me to quickly share some of my work and provide an interesting platform for further development. 
+
+One might ask "why going this route instead of using social media for sharing your content? Well, I guess because it felt more rewarding and liberating this way. 
+
+So it was decided, let's make it happen!
+
+ <div className="relative aspect-[2/1] w-full">
+  ![Alt Text](/static/images/rainbow_kitty.gif)
+  </div>
 
 ##  1.1. <a name='Features'></a> Startingpoint   
 
-So where does somebody with little experience and some rusty knowledge (about html, css and js from years back) actually start? Thankfully my talks with brogrammer Bert and youtube videos from Fireship helped me on the way to modern js and css frameworks.
-Looking back I realised I had lacked alot of common development practices, but I still believed diving into this project headfirst paid off.    
+So where does somebody with little experience and some rusty knowledge about html, css and js actually start? Well, what about linking a cute (but stock) [NYAN cat](https://www.nyan.cat/) gif! Thankfully my talks with brogrammer Bert and youtube videos from Fireship helped me on the way to modern js and css frameworks.
+Looking back I now better realise the complexity of programming and the vast amount of knowledge necessary to be a good developer. Nevertheless, diving headfirst into this project proved immensely rewarding, and also strengthens my belief in taking this approach.    
+ 
+If you like this blogpage then technically all credits should go to [Timothy Lin](https://github.com/timlrx), the project author of the blogtemplate. Along the way I've decided to use this popular Next.js, Tailwind CSS blogging starter template from [GitHub](https://github.com/timlrx/tailwind-nextjs-starter-blog#readme) for various reasons.
+Using a template hardly compares to something built from the ground up, but this still enables me to customise the app and implement new features. It got me here much much faster,   
 
-If you like this blogpage then technically all credits should go to [Timothy Lin](https://github.com/timlrx), the project author of the blog. Along the way I've decided to use this popular Next.js, Tailwind CSS blogging starter template from GitHub for various reasons. Continue reading if you like to find out why.
 
 <br/>
 
-#  2. <a name='Features'></a> Initial concept  
+#  2. <a name='Features'></a> What did I need?
 
-One might ask "why bother writing & hosting your own platform instead of using social media for sharing your content? Well, I guess because it felt more rewarding and liberating this way. 
-Yes, I used a template - but at least there are no ads nor highly trained algorythms here (-yet haha). I'm free to customise and implement new features and the only limits i now experience is my personal lack of time & technical skills. It was a no-brainer decision starting off from a template, and after some expected setbacks I'm still happy with the build.
-
-So what did it these webpages absolutely needed to pack and what did I wanted/wished for it to have? These were my first requierements and nice to have's:
+So, what did these webpages absolutely needed to pack and what did I wanted/wished for them to have? Down below I've listed my first requierements and nice to have's. 
+My plan is to develop these requirements with sharpened technical skills along the way. 
 
 ##  2.1. <a name='Features'></a>Initial requirements   
 
-Before stumbling on the template I actually had made a list where I wouldn't quite distinguish between requierements and nice to have features. Looking back the template covered all the necessary stuff, 
+Before stumbling on the template I actually had made a list where I wouldn't quite distinguish between requierements and "nice to have" features. Looking back, the template covered all strictly necessary stuff: 
 
 <details>
  <summary><b>Requierements</b></summary>
@@ -58,13 +66,12 @@ Before stumbling on the template I actually had made a list where I wouldn't qui
 - ✔️ Markdown friendly. (I believe in simplicity).
 - ✔️ Properly displaying Curriculum Vitae and content. 
 - ✔️ Working hyperlinks to past projects, social media and other. 
-- ✔️ Needs to be very customizable code, proper indentation & with well named variabels.
+- ✔️ Very customizable code, proper indentation & with well named variabels.
 - ✔️ Performant pages. Made with best practices. 
 - ✔️ SEO proof.  
 
 </details>
 
-Looking back the template covered all the necessary stuff, which enabled me to focus on customising and the fun nice to have's. Work smarter not harder right? 
 
 ##  2.2. <a name='Features1'></a> Nice to have's:
 
@@ -75,18 +82,20 @@ Secondary features which I believe hold some interesting value.
 
 - ✔️ Table of content in MDX files which can folde and hold links where you slide to.
 - ✔️ Download buttons for pdf files.
-- 🚧 Enabling Mermaid diagrams in blogposts (Unsuccesful attempt installing mdx mermaid plugin 😢) 
-- 🚧 Foldable text blocks (layout problem using h tags/bigger md font titles)
+- 🚧 Enabling Mermaid diagrams in blogposts 
+- 🚧 Foldable text blocks 
 - ❌ Translate functions of pages and components in NL, FR, EN, ES
-- ✔️ Integrated Searchbar for recruiters (should work, needs testing)
+- ✔️ Integrated Searchbar for recruiters 
 - ✔️ Dark & White mode
 - ❌ Morning and Evening mode (idea to extend/customise Dark & White mode)
-- 🚧 Blogpost article tags (not sure if they are updating correctly with 'contentlayer' integration, needs testing) 
-- ❌ Project status () 
 
 </details>
 
-Trying to get new features working on a stable build has been alot of troubleshooting, trial and error. I experienced the learning curve on this project as steep. More about that down below.
+More information about the [features packed within the template](https://github.com/timlrx/tailwind-nextjs-starter-blog#features). 
+
+
+Yes, I'm a firm believer of working smarter and not harder! All laziness aside, using boilerplates, templates and frameworks only seems logic if you want impressive results and a nice developer experience. I've personally still experienced a steep learning curve making/deploying this blog. 
+The installation of node, react, git and tailwind via the terminal and then wrapping my head around Next JS. Trying to get new features working on a stable build has been alot of troubleshooting, trial and error.
 
 # 3. <a name='Usage'></a>Rabbithole
 
@@ -117,6 +126,7 @@ For file folder structure: http://practicalseries.com/1001-webdevelopment/04-02-
 hier gewoon oiets aajn toevoegen 
 yarn n
 
+Work smarter not harder right? 
 
 # 3. <a name='Usage'></a>Rabbithole called development
 
@@ -134,6 +144,9 @@ yarn
 Npm
 
 Popular metaframeworks like react Next Js, Sveltekit and VueJS
+
+
+the only limits i now experience is my personal lack of time & technical skills. It was a no-brainer decision starting off from a template, and after some expected setbacks I'm still happy with the build.
 
 
 I had to pick up where I left 
