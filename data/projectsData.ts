@@ -7,7 +7,7 @@ const projectsData = [
     href: '/blog/volunteering/les-pieds-dans-la-mare',
   },
   {
-    title: 'Thesis: Antwerpia - America',
+    title: 'Antwerpia - America',
     description: `The 16th century painter Simon Pereyns is specifically known for his career in Mexico where he 
     co-produced multiple monumental altar pieces in Novohispanic tradition.`,
     imgSrc: '/static/images/fish.jpg',
