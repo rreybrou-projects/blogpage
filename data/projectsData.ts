@@ -3,7 +3,7 @@ const projectsData = [
     title: 'Les pieds dans la mare!',
     description: `I made a website for a dance school in Abidjan (Ivory Coast) in html, css & js. 
     Their mission is to educate children from the ghettos through modern dance.`,
-    imgSrc: '/static/images/lespiedsdanslamare/feetintheair.jpg',
+    imgSrc: '/static/images/piedsdanslamare/feetintheair.jpg',
     href: '/blog/volunteering/les-pieds-dans-la-mare',
   },
   {
