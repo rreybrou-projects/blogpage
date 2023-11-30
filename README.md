@@ -1,4 +1,4 @@
-![tailwind-nextjs-banner](/public/static/images/cat.gif)
+![tailwind-nextjs-banner](/public/static/images/cat_banner.png)
 
 # Tailwind Nextjs Starter Blog
 
