@@ -1,5 +1,7 @@
 # Reinout Reybrouck
 
+***
+
 ## Experience  
 
 - **2022-2023**
@@ -9,6 +11,8 @@
 - **2019 & 2021** 
   - **Digitiser - student employee** [@KIK/IRPA - Royal Institute for Cultural Heritage](https://www.kikirpa.be/)
   *Conservation and digitization of glass negatives, Multidisciplinary & scientific functioning in restora-/conservation laboratories.* 
+
+***
 
 ## Education 
 
@@ -28,6 +32,7 @@
   - **Erasmus-mundus Program México** [@UPAEP - Universidad Popular Autonóma del Estado de Puebla](https://upaep.mx/);
   *Precolombian & Colonial-Art studies.*
 
+***
 
 ## Courses & certificates
 
@@ -54,6 +59,8 @@
 | Next-JS    |  🔎       |
 | GIT        |  🔎⚠️     |
 
+***
+
 | Natural languages | Level | Association & emoji |
 | :-------- | :-------- | :-------- |
 | Dutch     | mother tongue | Family, friends & 🍟 |
@@ -63,7 +70,9 @@
 
 ### Holder of driving license B
 
-Hi, how are you!?
+***
+
+## Hi, how are you!?
 
 I like to describe myself as a person with many interests, diverse skillset and experiences. 
 As an Art-Historian, I've always enjoyed tinkering on computers a little bit more than the average historian. This interest eventually led me to my first professional IT job working as a Software Test Engineer at the VUB.
@@ -78,6 +87,8 @@ In my freetime i enjoy playing guitar, bouldering, travelling, taking care of my
 Please take a look at my blog posts to further discover what I'm passionate about,
 
 Thank you for visiting my resumé.🙂
+
+***
 
 ## Contact
 
