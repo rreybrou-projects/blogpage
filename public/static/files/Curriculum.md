@@ -1,28 +1,6 @@
----
-name: Reinout Reybrouck
-avatar: /static/images/profilepicgradient.webp
-occupation: IT Job Applicant, Art-Historian
-company: Brussels based 
-email: reinout.reybrouck@outlook.be
-linkedin: https://www.linkedin.com/in/reinout-reybrouck
-github: https://github.com/rreybrou-projects
----
+# Reinout Reybrouck
 
-<details>
- <summary><b>Collapsible index</b></summary>
-
-* [Experience](#experience)
-* [Education](#education)
-* [Courses & certificates](#courses)
-* [Skills](#skills)
-* [About](#about)
-* [Contact](#contact)
-
-</details>
-
-***
-
-# <a name='experience'></a>Experience  
+## Experience  
 
 - **2022-2023**
   - **Software Test Engineer** [@VUB - Vrije Universiteit Brussel](https://www.vub.be/en)<br />
@@ -32,9 +10,7 @@ github: https://github.com/rreybrou-projects
   - **Digitiser - student employee** [@KIK/IRPA - Royal Institute for Cultural Heritage](https://www.kikirpa.be/)
   *Conservation and digitization of glass negatives, Multidisciplinary & scientific functioning in restora-/conservation laboratories.* 
 
-***
-
-# <a name='education'></a>Education 
+## Education 
 
 - **2019-2021**
   - **Master kunstwetenschappen en Archeologie** [@VUB - Vrije Universiteit Brussel](https://www.vub.be/nl/studeren-aan-de-vub/alle-opleidingen/bachelor-en-masteropleidingen-aan-de-vub/kunstwetenschappen-en-archeologie);<br />
@@ -52,9 +28,8 @@ github: https://github.com/rreybrou-projects
   - **Erasmus-mundus Program México** [@UPAEP - Universidad Popular Autonóma del Estado de Puebla](https://upaep.mx/);
   *Precolombian & Colonial-Art studies.*
 
-***
 
-# <a name='courses'></a>Courses & certificates
+## Courses & certificates
 
 - **2022**
   - **Certified Tester Foundation Level** [ISTQB® - International Software Testing Qualifications Board](https://www.istqb.org/certifications/certified-tester-foundation-level);
@@ -66,7 +41,7 @@ github: https://github.com/rreybrou-projects
 
 ***
 
-# <a name='skills'></a>Skills
+## Skills
 
 | Software & programming | xp |
 | :--------  |   --------   | 
@@ -86,16 +61,9 @@ github: https://github.com/rreybrou-projects
 | Spanish   | Advanced      | Vacation, music & 🌮  |
 | English   | Advanced      | International setting & 💻 |
 
-<div><h2> Holder of driving license B </h2> </div>
+### Holder of driving license B
 
-***
-
-# <a name='about'></a>Hi, how are you!?
-
-Thank you for visiting my resumé.🙂
-
-<details>
- <summary><b>More information here! </b></summary>
+Hi, how are you!?
 
 I like to describe myself as a person with many interests, diverse skillset and experiences. 
 As an Art-Historian, I've always enjoyed tinkering on computers a little bit more than the average historian. This interest eventually led me to my first professional IT job working as a Software Test Engineer at the VUB.
@@ -109,18 +77,10 @@ In my freetime i enjoy playing guitar, bouldering, travelling, taking care of my
 
 Please take a look at my blog posts to further discover what I'm passionate about,
 
-greetings!
+Thank you for visiting my resumé.🙂
 
-</details>
+## Contact
 
-***
-
-# <a name='contact'></a>Contact 
-
- - [ Mail me! ](mailto:reinout.reybrouck@outlook.be) 
- - Call me! +32493051427 
- - Dikke beuklaan 22 / G20 106<br />
- 1090 Jette, Brussels
-
-***
-
+- reinout.reybrouck@outlook.be
+- Call me! +32493051427 
+- Jette, Brussels
