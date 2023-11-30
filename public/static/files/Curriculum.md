@@ -1,6 +1,11 @@
-# Reinout Reybrouck
+<br/>
 
-***
+# Reinout Reybrouck
+<br/>
+Brussels <br/>
+15 march 1995
+<br/>
+<br/>
 
 ## Experience  
 
@@ -12,7 +17,7 @@
   - **Digitiser - student employee** [@KIK/IRPA - Royal Institute for Cultural Heritage](https://www.kikirpa.be/)
   *Conservation and digitization of glass negatives, Multidisciplinary & scientific functioning in restora-/conservation laboratories.* 
 
-***
+<br/>
 
 ## Education 
 
@@ -32,7 +37,11 @@
   - **Erasmus-mundus Program México** [@UPAEP - Universidad Popular Autonóma del Estado de Puebla](https://upaep.mx/);
   *Precolombian & Colonial-Art studies.*
 
-***
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## Courses & certificates
 
@@ -44,7 +53,8 @@
   - **Advanced Google Analytics** [Google](https://analytics.google.com/analytics/academy/).
   *Data collection, -processing & configuration, Advanced analysis, - techniques & marketing tools.*
 
-***
+<br/>
+<br/>
 
 ## Skills
 
@@ -59,7 +69,7 @@
 | Next-JS    |  🔎       |
 | GIT        |  🔎⚠️     |
 
-***
+<br/>
 
 | Natural languages | Level | Association & emoji |
 | :-------- | :-------- | :-------- |
@@ -70,7 +80,10 @@
 
 ### Holder of driving license B
 
-***
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## Hi, how are you!?
 
@@ -88,7 +101,7 @@ Please take a look at my blog posts to further discover what I'm passionate abou
 
 Thank you for visiting my resumé.🙂
 
-***
+<br/>
 
 ## Contact
 
