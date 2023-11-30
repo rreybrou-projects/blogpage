@@ -12,7 +12,6 @@ const siteMetadata = {
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
   siteLogo: '/static/images/logo.svg',
   socialBanner: '/static/images/twitter-card.png',
-  mastodon: 'https://mastodon.social/@mastodonuser',
   email: 'reinout.reybrouck@outlook.be',
   github: 'https://github.com/rreybrou-projects',
   youtube: 'https://youtube.com',
