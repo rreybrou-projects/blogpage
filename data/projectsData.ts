@@ -4,14 +4,14 @@ const projectsData = [
     description: `I made a website for a dance school in Abidjan (Ivory Coast) in html, css & js. 
     Their mission is to educate children from the ghettos through modern dance.`,
     imgSrc: '/static/images/piedsdanslamare/feetintheair.jpg',
-    href: '/blog/volunteering/les-pieds-dans-la-mare',
+    href: '/blog/volunteering/les_pieds_dans_la_mare',
   },
   {
     title: 'Antwerpia - America',
     description: `The 16th century painter Simon Pereyns is specifically known for his career in Mexico where he 
     co-produced multiple monumental altar pieces in Novohispanic tradition.`,
     imgSrc: '/static/images/fish.jpg',
-    href: '/blog/arthistory/antwerpia-america',
+    href: '/blog/arthistory/antwerpia_america',
   },
   {
     title: 'Volunteering for PSBE',
@@ -23,7 +23,7 @@ const projectsData = [
     title: 'My blogpage! 👾 ',
     description: `Yes, this right here! A coding challenge, portfolio and future proof personal blogpage.`,
     imgSrc: '/static/images/retrocomputer.png',
-    href: '/blog/technology/blogpageapp',
+    href: '/blog/technology/blogpage_app',
   },
 ]
 
