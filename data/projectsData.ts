@@ -1,17 +1,9 @@
 const projectsData = [
   {
-    title: 'Les pieds dans la mare!',
-    description: `I made a website for a dance school in Abidjan (Ivory Coast) in html, css & js. 
-    Their mission is to educate children from the ghettos through modern dance.`,
-    imgSrc: '/static/images/piedsdanslamare/feetintheair.jpg',
-    href: '/blog/volunteering/les_pieds_dans_la_mare',
-  },
-  {
-    title: 'Antwerpia - America',
-    description: `The 16th century painter Simon Pereyns is specifically known for his career in Mexico where he 
-    co-produced multiple monumental altar pieces in Novohispanic tradition.`,
-    imgSrc: '/static/images/fish.jpg',
-    href: '/blog/arthistory/antwerpia_america',
+    title: 'My blogpage! 👾 ',
+    description: `Yes, this right here! My portfolio, a coding challenge and a future proof personal blogpage. This article highlights the site's features, the "nice to have's" but also my personal motivation and struggles making this website.`,
+    imgSrc: '/static/images/retrocomputer.png',
+    href: '/blog/technology/blogpage_app',
   },
   {
     title: 'Volunteering for PSBE',
@@ -20,10 +12,17 @@ const projectsData = [
     href: '/blog/volunteering/psbe',
   },
   {
-    title: 'My blogpage! 👾 ',
-    description: `Yes, this right here! A coding challenge, portfolio and future proof personal blogpage.`,
-    imgSrc: '/static/images/retrocomputer.png',
-    href: '/blog/technology/blogpage_app',
+    title: 'Antwerpia - America',
+    description: `My thesis! Maarten de Vos (1532-1603) was one of the leading artists working during the golden 16th century of Antwerp, a flourishing period for art and humanism.`,
+    imgSrc: '/static/images/maarten_de_vos.jpg',
+    href: '/blog/arthistory/antwerpia_america',
+  },
+  {
+    title: 'Les pieds dans la mare!',
+    description: `I made a website for a dance school in Abidjan (Ivory Coast) in html, css & js. 
+    Their mission is to educate children from the ghettos through modern dance.`,
+    imgSrc: '/static/images/piedsdanslamare/feetintheair.jpg',
+    href: '/blog/volunteering/les_pieds_dans_la_mare',
   },
 ]
 

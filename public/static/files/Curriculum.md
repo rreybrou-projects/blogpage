@@ -1,28 +1,13 @@
----
-name: Reinout Reybrouck
-avatar: /static/images/profilepicgradient.webp
-occupation: IT Job Applicant, Art-Historian
-company: Brussels based 
-email: reinout.reybrouck@outlook.be
-linkedin: https://www.linkedin.com/in/reinout-reybrouck
-github: https://github.com/rreybrou-projects
----
+<br/>
 
-<details>
- <summary><b>Collapsible index</b></summary>
+# Reinout Reybrouck
+<br/>
+Brussels <br/>
+15 march 1995
+<br/>
+<br/>
 
-* [Experience](#experience)
-* [Education](#education)
-* [Courses & certificates](#courses)
-* [Skills](#skills)
-* [About](#about)
-* [Contact](#contact)
-
-</details>
-
-***
-
-# <a name='experience'></a>Experience  
+## Experience  
 
 - **2022-2023**
   - **Software Test Engineer** [@VUB - Vrije Universiteit Brussel](https://www.vub.be/en)<br />
@@ -32,13 +17,13 @@ github: https://github.com/rreybrou-projects
   - **Digitiser - student employee** [@KIK/IRPA - Royal Institute for Cultural Heritage](https://www.kikirpa.be/)
   *Conservation and digitization of glass negatives, Multidisciplinary & scientific functioning in restora-/conservation laboratories.* 
 
-***
+<br/>
 
-# <a name='education'></a>Education 
+## Education 
 
 - **2019-2021**
   - **Master kunstwetenschappen en Archeologie** [@VUB - Vrije Universiteit Brussel](https://www.vub.be/nl/studeren-aan-de-vub/alle-opleidingen/bachelor-en-masteropleidingen-aan-de-vub/kunstwetenschappen-en-archeologie);<br />
-  *Thesis: [Antwerpia-America](/blog/arthistory/antwerpia_america) - 16th-century Flemish & Mexican (Global) Art History.* 
+  *Thesis: [Antwerpia-America](/blog/arthistory/antwerpia-america) - 16th-century Flemish & Mexican (Global) Art History.* 
 
 - **2018-2019 (2 semesters)**
   - **Multimedia en Communicaton Technology** [@EHB - Erasmus Hogeschool Brussel](https://www.erasmushogeschool.be/nl/opleidingen/multimedia-creatieve-technologie);
@@ -52,9 +37,13 @@ github: https://github.com/rreybrou-projects
   - **Erasmus-mundus Program México** [@UPAEP - Universidad Popular Autonóma del Estado de Puebla](https://upaep.mx/);
   *Precolombian & Colonial-Art studies.*
 
-***
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
-# <a name='courses'></a>Courses & certificates
+## Courses & certificates
 
 - **2022**
   - **Certified Tester Foundation Level** [ISTQB® - International Software Testing Qualifications Board](https://www.istqb.org/certifications/certified-tester-foundation-level);
@@ -64,9 +53,10 @@ github: https://github.com/rreybrou-projects
   - **Advanced Google Analytics** [Google](https://analytics.google.com/analytics/academy/).
   *Data collection, -processing & configuration, Advanced analysis, - techniques & marketing tools.*
 
-***
+<br/>
+<br/>
 
-# <a name='skills'></a>Skills
+## Skills
 
 | Software & programming | xp |
 | :--------  |   --------   | 
@@ -79,6 +69,8 @@ github: https://github.com/rreybrou-projects
 | Next-JS    |  🔎       |
 | GIT        |  🔎⚠️     |
 
+<br/>
+
 | Natural languages | Level | Association & emoji |
 | :-------- | :-------- | :-------- |
 | Dutch     | mother tongue | Family, friends & 🍟 |
@@ -86,46 +78,33 @@ github: https://github.com/rreybrou-projects
 | Spanish   | Advanced      | Vacation, music & 🌮  |
 | English   | Advanced      | International setting & 💻 |
 
-<div><h2> Holder of driving license B </h2> </div>
+### Holder of driving license B
 
-***
+<br/>
+<br/>
+<br/>
+<br/>
 
-# <a name='about'></a>Hi, how are you!?
-
-Thank you for visiting my resumé.
-
-<details>
- <summary><b>More information about me here! </b></summary>
+## Hi, how are you!?
 
 I like to describe myself as a person with many interests, diverse skills and experiences.
 Although trained as an art-historian, I've always enjoyed tinkering on computers a little bit more than the average history scholar. This interest eventually led me to my first professional IT job working as a Software Test Engineer at the VUB.
 
-By making this blogpage/portfolio I wanted to showcase my versatile personality and the quality of my work. 
+By making a [blogpage/portfolio](https://www.rreybrou.pro/) I wanted to showcase my versatile personality and the quality of my work. 
 Whether it is an organisational challenge, building a website or writing an article; I always strive to deliver the best results possible. Specifically given my limited time, energy and resources.
 Coming to new challenges, I draw on my diverse past experiences and the valuable insights they have given me. Presented with a difficult problem I stay persistent in resolving the issue.
 More often than not, I can also trust on creativity for problemsolving. In general I love learning new hard and soft skills and expand them to my knowledge base.
 
-In my freetime i enjoy playing guitar, bouldering, travelling, taking care of my plants and doing amateur restoration projects (Which i plan to showcase here soon!). 
+In my freetime i enjoy playing guitar, bouldering, travelling, taking care of my plants and doing amateur restoration projects.
 
 Please take a look at my [blogposts](https://www.rreybrou.pro/blog) to further discover what I'm passionate about,🙂
 
 greetings!
 
-</details>
+<br/>
 
-***
+## Contact
 
-# <a name='contact'></a>Contact 
-
-- [reinout.reybrouck@outlook.be](mailto:reinout.reybrouck@outlook.be) 
-- [+32493051427](+32493051427) 
+- reinout.reybrouck@outlook.be
+- Call me: +32493051427
 - Jette, Brussels
-
-***
-
-<div style={{backgroundColor: 'powderblue', padding: '1rem'}}> 
-<h2 style={{color: 'black'}}>🔗 Pdf view</h2> 
-
-- [Curriculum vitae](/static/files/Curriculum.pdf)
-
-</div>
