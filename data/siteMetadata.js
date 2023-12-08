@@ -5,7 +5,7 @@ const siteMetadata = {
   author: 'Reinout Reybrouck',
   headerTitle: 'rreybrou projects',
   description:
-    'Welcome to my website! This is where I showcase various projects, studies, interests, hobbies and volunteering work. Hope you enjoy!🌠',
+    'Welcome to my website! This is where I showcase various projects, studies, interests, hobbies and volunteering work. Hope you enjoy!',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
