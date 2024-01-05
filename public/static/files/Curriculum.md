@@ -63,6 +63,7 @@ Brussels <br/>
 | Office 365 |  ⭐⭐⭐    |
 | Windows OS |  ⭐⭐⭐    |
 | Markdown   |  🔎⭐⭐⭐  |
+| Obsidian.md  | 🖤🔎⭐⭐  |
 | Html, CSS  |  ⭐⭐     | 
 | Javascript |  ⭐       | 
 | React      |  🔎       |
@@ -71,12 +72,12 @@ Brussels <br/>
 
 <br/>
 
-| Natural languages | Level | Association & emoji |
-| :-------- | :-------- | :-------- |
-| Dutch     | mother tongue | Family, friends & 🍟 |
-| French    | Advanced      | Neighbours, metro & 🥐 |
-| Spanish   | Advanced      | Vacation, music & 🌮  |
-| English   | Advanced      | International setting & 💻 |
+| Natural languages | Level |
+| :-------- | :-------- |
+| Dutch     | mother tongue |
+| French    | Advanced      |
+| Spanish   | Advanced      |
+| English   | Advanced      |
 
 ### Holder of driving license B
 
