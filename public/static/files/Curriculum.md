@@ -58,17 +58,17 @@ Brussels <br/>
 
 ## Skills
 
-| Software & programming | xp |
-| :--------  |   --------   | 
-| Office 365 |  ⭐⭐⭐    |
-| Windows OS |  ⭐⭐⭐    |
-| Markdown   |  🔎⭐⭐⭐  |
-| Obsidian.md  | 🖤🔎⭐⭐  |
-| Html, CSS  |  ⭐⭐     | 
-| Javascript |  ⭐       | 
-| React      |  🔎       |
-| Next-JS    |  🔎       |
-| GIT        |  🔎⚠️     |
+| Software & programming | xp on a scale to 5|
+| :--------  |   --------  | 
+| Office 365 |  ⭐⭐⭐   |
+| Windows OS |  ⭐⭐⭐   |
+| [Markdown](https://www.markdownguide.org/getting-started/) |  🔎⭐⭐⭐  |
+| [Obsidian.md](https://obsidian.md/) | 🖤🔎⭐⭐  |
+| [Html](https://html.spec.whatwg.org/), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) |  ⭐    | 
+| [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |  ⭐       | 
+| [React](https://react.dev/)     |  🔎       |
+| [Next-JS](https://nextjs.org/ ) |  🔎       |
+| [GIT](https://git-scm.com/)     |  🔎⚠️     |
 
 <br/>
 
