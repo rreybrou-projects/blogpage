@@ -58,7 +58,7 @@ Brussels <br/>
 
 ## Skills
 
-| Software & programming | xp on a scale to 5|
+| Software & programming | Xp on a scale to 5|
 | :--------  |   --------  | 
 | Office 365 |  ⭐⭐⭐   |
 | Windows OS |  ⭐⭐⭐   |
