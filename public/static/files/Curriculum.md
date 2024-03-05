@@ -25,7 +25,7 @@ Brussels <br/>
 ## Education
 
 - **2019-2021**
-  - **Master kunstwetenschappen en Archeologie** [@VUB - Vrije Universiteit Brussel](https://www.vub.be/nl/studeren-aan-de-vub/alle-opleidingen/bachelor-en-masteropleidingen-aan-de-vub/kunstwetenschappen-en-archeologie);<br />
+  - **Master of Art Studies and Archaeology** [@VUB - Vrije Universiteit Brussel](https://www.vub.be/nl/studeren-aan-de-vub/alle-opleidingen/bachelor-en-masteropleidingen-aan-de-vub/kunstwetenschappen-en-archeologie);<br />
   *Thesis: [Antwerpia-America](/blog/arthistory/antwerpia_america) - 16th-century Flemish & Mexican (Global) Art History.* 
 
 - **2018-2019 (2 semesters)**
@@ -33,7 +33,7 @@ Brussels <br/>
   *IT-principles, CAD-drawing, Makerslab, Html - CSS - JS*
 
 - **2014-2018**
-  - **Bachelor kunstwetenschappen en Archeologie** [@VUB - Vrije Universiteit Brussel](https://www.vub.be/en);
+  - **Bachelor of Art Studies and Archaeology** [@VUB - Vrije Universiteit Brussel](https://www.vub.be/en);
   *Retracing the footsteps of migrated artist Simon Pereyns.*
 
 - **2016 (1 semester)**
