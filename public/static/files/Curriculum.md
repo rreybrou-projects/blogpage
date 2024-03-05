@@ -1,9 +1,11 @@
+
 <br/>
 
 # Reinout Reybrouck
 <br/>
 Brussels <br/>
 15 march 1995
+<br/>
 <br/>
 <br/>
 
@@ -19,11 +21,12 @@ Brussels <br/>
 
 <br/>
 
-## Education 
+
+## Education
 
 - **2019-2021**
   - **Master kunstwetenschappen en Archeologie** [@VUB - Vrije Universiteit Brussel](https://www.vub.be/nl/studeren-aan-de-vub/alle-opleidingen/bachelor-en-masteropleidingen-aan-de-vub/kunstwetenschappen-en-archeologie);<br />
-  *Thesis: [Antwerpia-America](/blog/arthistory/antwerpia-america) - 16th-century Flemish & Mexican (Global) Art History.* 
+  *Thesis: [Antwerpia-America](/blog/arthistory/antwerpia_america) - 16th-century Flemish & Mexican (Global) Art History.* 
 
 - **2018-2019 (2 semesters)**
   - **Multimedia en Communicaton Technology** [@EHB - Erasmus Hogeschool Brussel](https://www.erasmushogeschool.be/nl/opleidingen/multimedia-creatieve-technologie);
@@ -41,71 +44,74 @@ Brussels <br/>
 <br/>
 <br/>
 <br/>
-<br/>
 
 ## Courses & certificates
 
+- **2024**
+  - **Designing User Interfaces and Experiences (UI/UX)** [IBM - International Business Machines Corporation](https://www.ibm.com/training/badge/designing-user-interfaces-and-experiences-ui-ux);
+  *UI/UX concepts, Progressive web applications, Web-design methodologies, Designing user interfaces with Figma.*
+
 - **2022**
   - **Certified Tester Foundation Level** [ISTQB® - International Software Testing Qualifications Board](https://www.istqb.org/certifications/certified-tester-foundation-level);
-  *Fundamentals, Testing Throughout the Software Development Lifecycle, Test Techniques, -Management & tool support.*
+  *Fundamentals, Testing throughout the Software Development Lifecycle, Test Techniques, -Management & tool support.*
 
 - **2022**
   - **Advanced Google Analytics** [Google](https://analytics.google.com/analytics/academy/).
   *Data collection, -processing & configuration, Advanced analysis, - techniques & marketing tools.*
 
 <br/>
-<br/>
 
 ## Skills
 
-| Software & programming | Xp on a scale to 5|
+| Software, programming & Natural languages  | Xp on a scale to 5|
 | :--------  |   --------  | 
-| Office 365 |  ⭐⭐⭐   |
-| Windows OS |  ⭐⭐⭐   |
-| [Markdown](https://www.markdownguide.org/getting-started/) |  🔎⭐⭐⭐  |
-| [Obsidian.md](https://obsidian.md/) | 🖤🔎⭐⭐  |
-| [Html](https://html.spec.whatwg.org/), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) |  ⭐    | 
-| [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |  ⭐       | 
+| Office 365 |  🌟🌟🌟🌟  |
+| Windows OS |  🌟🌟🌟    |
+| [Figma](https://www.figma.com/) |  🌟🌟🌟    |
+| [Markdown](https://www.markdownguide.org/getting-started/) |  🌟🌟🌟  |
+| [Obsidian.md](https://obsidian.md/) | 🌟🌟 |
+| [Html](https://html.spec.whatwg.org/), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) |  🌟🌟   | 
+| [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |  🌟  | 
 | [React](https://react.dev/)     |  🔎       |
 | [Next-JS](https://nextjs.org/ ) |  🔎       |
-| [GIT](https://git-scm.com/)     |  🔎⚠️     |
-
-<br/>
-
-| Natural languages | Level |
-| :-------- | :-------- |
+| [GIT](https://git-scm.com/)     |  🔎       |
 | Dutch     | mother tongue |
 | French    | Advanced      |
 | Spanish   | Advanced      |
 | English   | Advanced      |
 
-### Holder of driving license B
-
-<br/>
-<br/>
 <br/>
 <br/>
 
-## Hi, how are you!?
+## Hi, how are you?
+
+Thank you for visiting my resumé!
 
 I like to describe myself as a person with many interests, diverse skills and experiences.
-Although trained as an art-historian, I've always enjoyed tinkering on computers a little bit more than the average history scholar. This interest eventually led me to my first professional IT job working as a Software Test Engineer at the VUB.
+Although trained as an art-historian, I've always enjoyed tinkering on computers a bit more than the average history scholar. This interest eventually led me to my first professional IT job working as a Software Test Engineer at the VUB.
 
-By making a [blogpage/portfolio](https://www.rreybrou.pro/) I wanted to showcase my versatile personality and the quality of my work. 
-Whether it is an organisational challenge, building a website or writing an article; I always strive to deliver the best results possible. Specifically given my limited time, energy and resources.
-Coming to new challenges, I draw on my diverse past experiences and the valuable insights they have given me. Presented with a difficult problem I stay persistent in resolving the issue.
-More often than not, I can also trust on creativity for problemsolving. In general I love learning new hard and soft skills and expand them to my knowledge base.
+Whether it is an organisational challenge, building a website or writing an article; I always strive to deliver the best results possible. Specifically given my limited time, energy and resources. Coming to new challenges, I draw on my diverse past experiences and the valuable insights they have given me. Presented with a difficult problem I stay persistent in resolving the issue - individually or as actively teamworking.
+More often than not, I can trust on creativity for problemsolving. I love learning new skills and expand them to my knowledge base.
 
-In my freetime i enjoy playing guitar, bouldering, travelling, taking care of my plants and doing amateur restoration projects.
+In my freetime i enjoy playing guitar, bouldering, travelling, taking care of my plants and doing amateur restoration projects. 
 
-Please take a look at my [blogposts](https://www.rreybrou.pro/blog) to further discover what I'm passionate about,🙂
+Please take a look at my [blogposts](https://www.rreybrou.pro/blog) to further discover what I'm passionate about.🙂
 
 greetings!
 
 <br/>
+<br/>
+
+#### **Holder of driving license B**
+
+#### **[Curriculum vitae in pdf 🔗](https://www.rreybrou.pro/public/static/files/Curriculum.pdf)**
+
+<br/>
+
+***
 
 ## Contact
 
-- reinout.reybrouck@outlook.be
-- Call me: +32493051427
+- [reinout.reybrouck@outlook.be](mailto:reinout.reybrouck@outlook.be) 
+- [+32493051427](+32493051427) 
 - Jette, Brussels
