@@ -104,7 +104,7 @@ greetings!
 
 #### **Holder of driving license B**
 
-#### **[Curriculum vitae in pdf 🔗](https://www.rreybrou.pro/public/static/files/Curriculum.pdf)**
+#### **[Link to my website 🔗](https://www.rreybrou.pro)**
 
 <br/>
 
