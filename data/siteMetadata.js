@@ -11,7 +11,7 @@ const siteMetadata = {
   siteUrl: 'https://www.rreybrou.pro/',
   siteRepo: 'https://github.com/rreybrou-projects/blogpage/',
   siteLogo: '/static/images/logo.svg',
-  socialBanner: '/static/images/funnycat.png',
+  socialBanner: '/static/images/twittercard1200x1200.png',
   email: 'reinout.reybrouck@outlook.be',
   github: 'https://github.com/rreybrou-projects',
   youtube: 'https://youtube.com',
@@ -66,7 +66,7 @@ const siteMetadata = {
       darkTheme: 'transparent_dark',
       // If the theme option above is set to 'custom`
       // please provide a link below to your custom theme css file.
-      // example: https://giscus.app/themes/custom_example.css
+      // example: https://giscus.app/the mes/custom_example.css
       themeURL: '',
       // This corresponds to the `data-lang="en"` in giscus's configurations
       lang: 'en',
